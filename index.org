@@ -1,0 +1,16 @@
+#+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/3.0.0/
+#+REVEAL_THEME: black
+#+OPTIONS: toc:nil num:nil
+#+TITLE: Welcome to emacs
+#+AUTHOR: Jason Evans
+* Clean Coder
+** Chapter 4
+   - 3 AM Code
+***  The Zone
+    - Books
+      - Flow, Mihály Csíkszentmihály
+      - Deep Work: Rules for Focused Success in a Distracted World, Cal Newport
+* Team work
+  - pairing
+  - communication
+* Personae
