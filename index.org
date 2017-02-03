@@ -1,16 +1,57 @@
 #+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/3.0.0/
 #+REVEAL_THEME: black
-#+OPTIONS: toc:nil num:nil
+#+OPTIONS: num:nil
 #+TITLE: Welcome to emacs
 #+AUTHOR: Jason Evans
 * Clean Coder
-** Chapter 4
-   - 3 AM Code
-***  The Zone
-    - Books
+** Covering
+   - Chapter 4  : Coding
+   - Chapter 9  : Time Management
+   - Chapter 6  : Practicing
+   - Chapter 12 : Collaboration
+   - Chapter 13 : Teams and Projects
+   - Chapter 14 : Mentoring, Apprenticeship, and Craftmanship 
+** Doing
+*** Prepardeness (Ch 4)
+     - As developers what should our goals be:
+       #+ATTR_REVEAL: :frag (roll-in)
+       - First: your code must work
+       - Your code must: solve the problem
+       - Your code must: fit into the current system
+       - Your code must: be readable by other developers
+*** Isolation
+    - The Zone
+    - Music
+**** Resources
       - Flow, Mihály Csíkszentmihály
       - Deep Work: Rules for Focused Success in a Distracted World, Cal Newport
-* Team work
-  - pairing
-  - communication
-* Personae
+** Use your energy and focus wisely
+  Software development is a profession which relies heavily on focus. While we may get to sit in a chair all day, we use a lof of energy. 
+  - Avoid the 3 AM Code (Ch. 4), avoid over working
+  - Worrysome code (Ch. 4), 
+  - Pacing yourself (Ch. 4)
+  - Recharging (Ch.9)
+** Time Management
+   - Understanding the value of your time
+     - The cost of meetings
+     - Overtime and overcommiting and under performing
+*** Resources: 
+     - Getting Things Done (GTD), David Allen (Book)
+     - Promodoro Technique
+     - EMACS ..... orgmode 
+** Teamwork, Communication, and Collaboration
+   - Pairing
+   - Team members have a responsibility to other team members
+**** Resources:
+     - Team Geek, Brian W. Fitzpatrick, Ben Collins-Sussman
+** Mentoring, Apprenticeship, and Craftmanship 
+*** Practice
+**** Resources:
+       - Codewars, https://www.codewars.com/
+       - Project Euler, https://projecteuler.net/
+       - Kaggle, https://www.kaggle.com/ (Data science competitions)
+       - The Pragmatic Programmer series of books.
+*** Craftmanship
+**** Resources:
+     - Clean Coder, Bob Martin (Book / Video Collection)
+     - 
